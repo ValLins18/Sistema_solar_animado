@@ -18,7 +18,7 @@ Este repositório contém um projeto que representa um sistema solar básico, ut
 
 1. Clone o repositório: `git clone https://github.com/seu-usuario/Sistema_solar_animado.git`
 2. Navegue até o diretório do projeto: `cd Sistema_solar_animado`
-3. Abra o arquivo `index.html` no seu navegador preferido para visualizar a aplicação.
+3. Abra o arquivo `sistema_solar.html` no seu navegador preferido para visualizar a aplicação.
 
 ## Contribuições
 
